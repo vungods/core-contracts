@@ -358,3 +358,4 @@ mod tests {
         assert_eq!((contract.get_total_voted_stake().0).0, 0);
     }
 }
+// Hello world
